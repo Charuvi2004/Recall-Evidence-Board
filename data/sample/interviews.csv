@@ -1,0 +1,121 @@
+participant_id,hypothesis,verdict,unprompted,quote
+p00,H1,not_discussed,no,
+p00,H2,contradicts,no,
+p00,H3,supports,yes,[sample placeholder - replace with a real quote]
+p00,H4,not_discussed,no,
+p00,H5,contradicts,yes,
+p00,H6,not_discussed,no,
+p00,H7,contradicts,yes,
+p00,H8,supports,yes,[sample placeholder - replace with a real quote]
+p01,H1,supports,no,[sample placeholder - replace with a real quote]
+p01,H2,not_discussed,no,
+p01,H3,contradicts,yes,
+p01,H4,supports,yes,[sample placeholder - replace with a real quote]
+p01,H5,not_discussed,no,
+p01,H6,not_discussed,no,
+p01,H7,not_discussed,no,
+p01,H8,contradicts,no,
+p02,H1,contradicts,yes,
+p02,H2,not_discussed,no,
+p02,H3,supports,yes,[sample placeholder - replace with a real quote]
+p02,H4,not_discussed,no,
+p02,H5,contradicts,yes,
+p02,H6,not_discussed,no,
+p02,H7,not_discussed,no,
+p02,H8,supports,no,[sample placeholder - replace with a real quote]
+p03,H1,not_discussed,no,
+p03,H2,not_discussed,no,
+p03,H3,supports,yes,[sample placeholder - replace with a real quote]
+p03,H4,supports,yes,[sample placeholder - replace with a real quote]
+p03,H5,not_discussed,no,
+p03,H6,not_discussed,no,
+p03,H7,supports,yes,[sample placeholder - replace with a real quote]
+p03,H8,contradicts,yes,
+p04,H1,supports,no,[sample placeholder - replace with a real quote]
+p04,H2,contradicts,yes,
+p04,H3,not_discussed,no,
+p04,H4,supports,no,[sample placeholder - replace with a real quote]
+p04,H5,not_discussed,no,
+p04,H6,supports,yes,[sample placeholder - replace with a real quote]
+p04,H7,contradicts,yes,
+p04,H8,contradicts,no,
+p05,H1,supports,yes,[sample placeholder - replace with a real quote]
+p05,H2,supports,yes,[sample placeholder - replace with a real quote]
+p05,H3,not_discussed,no,
+p05,H4,not_discussed,no,
+p05,H5,not_discussed,no,
+p05,H6,supports,no,[sample placeholder - replace with a real quote]
+p05,H7,supports,yes,[sample placeholder - replace with a real quote]
+p05,H8,supports,yes,[sample placeholder - replace with a real quote]
+p06,H1,contradicts,yes,
+p06,H2,contradicts,yes,
+p06,H3,not_discussed,no,
+p06,H4,contradicts,no,
+p06,H5,supports,yes,[sample placeholder - replace with a real quote]
+p06,H6,supports,yes,[sample placeholder - replace with a real quote]
+p06,H7,supports,yes,[sample placeholder - replace with a real quote]
+p06,H8,supports,yes,[sample placeholder - replace with a real quote]
+p07,H1,supports,no,[sample placeholder - replace with a real quote]
+p07,H2,contradicts,no,
+p07,H3,supports,yes,[sample placeholder - replace with a real quote]
+p07,H4,supports,no,[sample placeholder - replace with a real quote]
+p07,H5,supports,no,[sample placeholder - replace with a real quote]
+p07,H6,not_discussed,no,
+p07,H7,supports,yes,[sample placeholder - replace with a real quote]
+p07,H8,supports,yes,[sample placeholder - replace with a real quote]
+p08,H1,not_discussed,no,
+p08,H2,not_discussed,no,
+p08,H3,supports,yes,[sample placeholder - replace with a real quote]
+p08,H4,supports,no,[sample placeholder - replace with a real quote]
+p08,H5,contradicts,yes,
+p08,H6,supports,no,[sample placeholder - replace with a real quote]
+p08,H7,supports,yes,[sample placeholder - replace with a real quote]
+p08,H8,not_discussed,no,
+p09,H1,contradicts,yes,
+p09,H2,not_discussed,no,
+p09,H3,supports,yes,[sample placeholder - replace with a real quote]
+p09,H4,supports,yes,[sample placeholder - replace with a real quote]
+p09,H5,not_discussed,no,
+p09,H6,not_discussed,no,
+p09,H7,supports,no,[sample placeholder - replace with a real quote]
+p09,H8,supports,yes,[sample placeholder - replace with a real quote]
+p10,H1,supports,no,[sample placeholder - replace with a real quote]
+p10,H2,contradicts,no,
+p10,H3,not_discussed,no,
+p10,H4,not_discussed,no,
+p10,H5,not_discussed,no,
+p10,H6,not_discussed,no,
+p10,H7,not_discussed,no,
+p10,H8,contradicts,yes,
+p11,H1,supports,no,[sample placeholder - replace with a real quote]
+p11,H2,contradicts,no,
+p11,H3,not_discussed,no,
+p11,H4,supports,yes,[sample placeholder - replace with a real quote]
+p11,H5,supports,yes,[sample placeholder - replace with a real quote]
+p11,H6,not_discussed,no,
+p11,H7,supports,yes,[sample placeholder - replace with a real quote]
+p11,H8,contradicts,yes,
+p12,H1,supports,yes,[sample placeholder - replace with a real quote]
+p12,H2,not_discussed,no,
+p12,H3,supports,yes,[sample placeholder - replace with a real quote]
+p12,H4,supports,yes,[sample placeholder - replace with a real quote]
+p12,H5,not_discussed,no,
+p12,H6,not_discussed,no,
+p12,H7,supports,no,[sample placeholder - replace with a real quote]
+p12,H8,not_discussed,no,
+p13,H1,contradicts,yes,
+p13,H2,supports,yes,[sample placeholder - replace with a real quote]
+p13,H3,not_discussed,no,
+p13,H4,supports,yes,[sample placeholder - replace with a real quote]
+p13,H5,not_discussed,no,
+p13,H6,not_discussed,no,
+p13,H7,supports,no,[sample placeholder - replace with a real quote]
+p13,H8,supports,no,[sample placeholder - replace with a real quote]
+p14,H1,not_discussed,no,
+p14,H2,not_discussed,no,
+p14,H3,not_discussed,no,
+p14,H4,not_discussed,no,
+p14,H5,not_discussed,no,
+p14,H6,not_discussed,no,
+p14,H7,supports,yes,[sample placeholder - replace with a real quote]
+p14,H8,supports,yes,[sample placeholder - replace with a real quote]
