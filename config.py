@@ -61,18 +61,28 @@ PAIN_COLUMNS = {
 }
 
 # ---------------------------------------------------------------- chart palette
-# Reference palette from the dataviz method (light mode).
+# Premium dark analytics theme
+
 COLORS = {
-    "series_1": "#2a78d6",
-    "series_2": "#eb6834",
-    "text_primary": "#0b0b0b",
-    "text_secondary": "#52514e",
-    "muted": "#898781",
-    "grid": "#e1e0d9",
-    "axis": "#c3c2b7",
-    "surface": "#fcfcfb",
-    "good": "#0ca30c",
-    "critical": "#d03b3b",
-    "warning": "#fab219",
+    "series_1": "#6EA8FE",       # Soft electric blue
+    "series_2": "#F59E7B",       # Warm coral
+    "text_primary": "#E8EEF7",   # Main labels
+    "text_secondary": "#A7B2C4", # Secondary labels
+    "muted": "#77849A",
+    "grid": "#2B3443",
+    "axis": "#3B4658",
+    "surface": "#151B26",        # Chart background
+    "good": "#34D399",           # Emerald green
+    "critical": "#FB7185",       # Soft red
+    "warning": "#FBBF24",        # Amber
 }
-SEQUENTIAL_BLUE = ["#cde2fb", "#9ec5f4", "#6da7ec", "#3987e5", "#256abf", "#184f95", "#0d366b"]
+
+SEQUENTIAL_BLUE = [
+    "#DCEBFF",
+    "#A9CEFF",
+    "#7DB5FF",
+    "#5599F2",
+    "#397BD5",
+    "#285CA8",
+    "#193F78",
+]
